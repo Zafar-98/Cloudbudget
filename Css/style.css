@@ -277,7 +277,8 @@ font-size: 14px;
 color: #ED4C5C;
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: center; 
+text-decoration: none;
 }
 .main__content{
 
@@ -328,6 +329,7 @@ font-size: 36px;
 display: flex;
 align-items: center;
 flex-direction: column;
+justify-content: space-between;
    
 
 }
